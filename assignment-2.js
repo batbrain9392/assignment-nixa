@@ -1,3 +1,6 @@
+// Sort huge array based on given params
+
+
 'use strict'
 
 function fetchItemsToDisplay(items, sortParameter, sortOrder, itemsPerPage, pageNumber) {
